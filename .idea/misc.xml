@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/product-service/pom.xml" />
+        <option value="$USER_HOME$/Downloads/eureka-server/pom.xml" />
+        <option value="$USER_HOME$/Downloads/zuul-edge-server/zuul-edge-server/pom.xml" />
+        <option value="$USER_HOME$/Downloads/zuul-edge-server/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/../../../../../Program Files/Java/jdk-11.0.1" />
+  </component>
+</project>
