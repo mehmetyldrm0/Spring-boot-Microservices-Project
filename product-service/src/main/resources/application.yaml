@@ -31,7 +31,7 @@ spring:
   datasource:
     url: "jdbc:postgresql://localhost:5432/stock_management"
     username: postgres
-    password: Me.57012716
+    password: Me.5016
 
 eureka:
   instance:
